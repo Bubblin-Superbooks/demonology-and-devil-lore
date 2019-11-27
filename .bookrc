@@ -1,0 +1,22 @@
+{
+  "name": "Demonology and Devil-lore",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/demonology-and-devil-lore/master/assets",
+  "book_id": 1271,
+  "book_url": "https://bubblin.io/book/demonology-and-devil-lore-by-moncure-daniel-conway"
+}
